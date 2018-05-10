@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invasores del Espacio", "Assembly-CSharp-firstpass.csproj", "{616BCDCF-C332-F84F-3030-E9134974B496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invasores del Espacio", "Assembly-CSharp.csproj", "{ABA74865-7B00-B9CD-C1DD-44C886479580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invasores del Espacio", "Assembly-CSharp-Editor-firstpass.csproj", "{AE5FDF8A-650D-9B46-A864-07EF87F56946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616BCDCF-C332-F84F-3030-E9134974B496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616BCDCF-C332-F84F-3030-E9134974B496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616BCDCF-C332-F84F-3030-E9134974B496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616BCDCF-C332-F84F-3030-E9134974B496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA74865-7B00-B9CD-C1DD-44C886479580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA74865-7B00-B9CD-C1DD-44C886479580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA74865-7B00-B9CD-C1DD-44C886479580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA74865-7B00-B9CD-C1DD-44C886479580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5FDF8A-650D-9B46-A864-07EF87F56946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5FDF8A-650D-9B46-A864-07EF87F56946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5FDF8A-650D-9B46-A864-07EF87F56946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5FDF8A-650D-9B46-A864-07EF87F56946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
